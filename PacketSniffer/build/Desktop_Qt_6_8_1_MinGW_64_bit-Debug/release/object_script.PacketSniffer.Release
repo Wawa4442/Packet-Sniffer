@@ -1,0 +1,11 @@
+release/errordialog.o
+release/filtersdialog.o
+release/help.o
+release/main.o
+release/mainwindow.o
+release/packetsniffer.o
+release/moc_errordialog.o
+release/moc_filtersdialog.o
+release/moc_help.o
+release/moc_mainwindow.o
+release/moc_packetsniffer.o
